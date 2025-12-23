@@ -1,5 +1,5 @@
-# DISCOM-MSEDCL-JE-AE-EXAM-ELECTRICAL-ENGINEERING-SYLLABUS
-Course is designed to help both graduate electrical engineers and employed professionals preparing for entry level, promotion exams for JE, AE, DyE and EE posts. We specialize in competitive and university exams covering a range of key exams including MSEB/DISCOM/GENCO/TRANSCO, SSC/CGL, MPSC/Technical, RRB, Metro, GATE, IES and campus interviews.
+# MSEDCL-AEE-DYE-SYLLABUS-CLASSES-MAHAVITARAN
+Course is designed to help both graduate electrical engineers and employed professionals preparing for entry level, promotion exams for DyE, AEE , AE, AND JE posts. We specialize in competitive and university exams covering a range of key exams including MSEB/DISCOM/GENCO/TRANSCO, SSC/CGL, MPSC/Technical, RRB, Metro, GATE, IES and campus interviews.
 
 This course goes beyond traditional theoretical teaching. We focus on building a solid foundation of core concepts, equipping you with the skills needed for fieldwork, boosting your confidence for technical exams and campus interviews, and teaching you optimized strategies for tackling objective questions. You’ll develop critical thinking, problem-solving abilities, and time management skills—preparing you for professional success. Our program is designed to transform how you approach engineering education, making it easy, engaging, practical, and impactful.
 
@@ -15,25 +15,21 @@ Sachin S. Wagh, holds an engineering postgraduate degree from Government College
 
 Course Details
 
-•	Commencement: March 2025
+•	Commencement: Dec 2025
 
-• Duration: 30 days (2 hours daily)
+• Duration: 60 days (2 hours daily)
 
-•	Mode: Live online sessions (Non recorded)
+•	Mode: Live online sessions
 
 • Batch Size: Limited to 20 students
 
-•	Fees: Rs. 5000
-
-• Registration Charges: Rs. 2000
-
-•	Eligibility: Final-year Diploma/Degree or a Diploma and/or Degree in Electrical Engineering.
+•	Fees: Rs. 8000
 
 Why Choose Us?
 
 •	Personalized guidance to enhance learning and well experienced.
 
-•	Comprehensive course materials and tests (about 1000 objective questions)
+•	Comprehensive course materials and tests (about 4000 objective questions)
 
 •	Focus on real-world applications, not just theoretical knowledge
 
