@@ -3,7 +3,7 @@
 # Hurry! Limited seats available (20 only).  Secure your spot!                          
 # https://tinyurl.com/DISCOM-MSEDCL-REGISTER
 # https://sites.google.com/view/msedcl-syllabus-dye-aee-class
-Course is designed to help both graduate electrical engineers and employed professionals preparing for entry level, promotion exams for AEE , DyE, AE, AND JE posts. We specialize in competitive and university exams covering a range of key exams including MSEB/DISCOM/GENCO/TRANSCO, SSC/CGL, MPSC/Technical, RRB, Metro, GATE, IES and campus interviews.
+Course is designed to help both graduate electrical engineers and employed professionals preparing for entry level, promotion exams for AEE , DyE, AE, AND JE posts. We specialize in competitive and university exams covering a range of key exams including MSEB/DISCOM/GENCO/TRANSCO, SSC/CGL, MPSC/Technical, RRB, Metro, GATE, IES and campus interviews. (https://tinyurl.com/DISCOM-MSEDCL-REGISTER)
 
 This course goes beyond traditional theoretical teaching. We focus on building a solid foundation of core concepts, equipping you with the skills needed for fieldwork, boosting your confidence for technical exams and campus interviews, and teaching you optimized strategies for tackling objective questions. You’ll develop critical thinking, problem-solving abilities, and time management skills—preparing you for professional success. Our program is designed to transform how you approach engineering education, making it easy, engaging, practical, and impactful.
 
