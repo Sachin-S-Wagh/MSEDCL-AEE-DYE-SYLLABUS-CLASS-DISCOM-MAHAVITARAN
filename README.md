@@ -1,6 +1,6 @@
                                                          
 # MSEDCL-AEE-DYE-SYLLABUS-CLASSES-MAHAVITARAN
-# Hurry! Limited seats available (20 only).  Secure your spot now!                          
+# Hurry! Limited seats available (20 only).  Secure your spot!                          
 # https://tinyurl.com/DISCOM-MSEDCL-REGISTER
 # https://sites.google.com/view/msedcl-syllabus-dye-aee-class
 Course is designed to help both graduate electrical engineers and employed professionals preparing for entry level, promotion exams for DyE, AEE , AE, AND JE posts. We specialize in competitive and university exams covering a range of key exams including MSEB/DISCOM/GENCO/TRANSCO, SSC/CGL, MPSC/Technical, RRB, Metro, GATE, IES and campus interviews.
